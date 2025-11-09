@@ -1,11 +1,12 @@
 {
-  "CurrentVersion": "1.0.1",
-  "MinimumRequiredVersion": "1.0.1",
+  "CurrentVersion": "1.0.0",
+  "MinimumRequiredVersion": "1.0.0",
   "MaintenanceMode": false,
   "MaintenanceMessage": "syntax in maintenance, we back soon.",
   "DownloadUrl": "http://seu-servidor.com/latest-app-installer.exe"
 
 }
+
 
 
 
