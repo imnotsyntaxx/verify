@@ -1,9 +1,10 @@
 {
   "CurrentVersion": "1.0.1",
   "MinimumRequiredVersion": "1.0.1",
-  "MaintenanceMode": true,
+  "MaintenanceMode": false,
   "MaintenanceMessage": "Estamos atualizando o servidor para melhorar a experiência. Voltaremos em breve!",
   "DownloadUrl": "http://seu-servidor.com/latest-app-installer.exe"
 
 }
+
 
