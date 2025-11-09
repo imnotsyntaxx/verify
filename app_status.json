@@ -1,11 +1,12 @@
 {
   "CurrentVersion": "1.0.0",
-  "MinimumRequiredVersion": "1.0.0",
+  "MinimumRequiredVersion": "1.0.1",
   "MaintenanceMode": false,
   "MaintenanceMessage": "syntax in maintenance, we back soon.",
-  "DownloadUrl": "http://seu-servidor.com/latest-app-installer.exe"
+  "DownloadUrl": "https://cdn.discordapp.com/attachments/1437163648584781884/1437163693728337991/syntax.rar?ex=69123e7d&is=6910ecfd&hm=0adde0a6dd064c8c5c237eb4d40f7caca3680735739a22bc780d231e26b50afb&"
 
 }
+
 
 
 
